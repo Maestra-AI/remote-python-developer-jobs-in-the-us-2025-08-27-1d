@@ -179,9 +179,9 @@
 | Com Donnelleyf | Senior Software Engineer - Full Stack (Remote) (US) | Remote | [Apply](https://jobs.dfinsolutions.com/job/Senior-Software-Engineer-Full-Stack-%28Remote%29/1304355400/?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Integrationapp | AI GTM Engineer | Remote | [Apply](https://jobs.ashbyhq.com/integrationapp/4ef9c8c4-a1d2-4a5c-a440-e912b2a48f7e?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Evergreenix-external-careers2 | Software Engineer II | Remote | [Apply](https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_Remote/Software-Engineer-II_JR500441?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
+| 83d8aff6-5c42-47d0-aebd-8faee4f900a6 | Full Stack React Front End Developer | Remote | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3522848?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Cardflight | Senior Backend Software Engineer | Remote | [Apply](https://job-boards.greenhouse.io/cardflight/jobs/8139427002?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Cardflight | Backend Software Engineer | Atlanta, Georgia | [Apply](https://job-boards.greenhouse.io/cardflight/jobs/8139369002?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
-| 83d8aff6-5c42-47d0-aebd-8faee4f900a6 | Full Stack React Front End Developer | Remote | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3522848?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Phillytechco | Lead .NET/C# Engineer | $150K-$180K + Equity + Remote | High-Growth Event Planning SaaS Company | Philadelphia, Pennsylvania | [Apply](https://jobs.smartrecruiters.com/PhillyTechCo/744000078061412?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Rxvantage | Senior Software Engineer, Full-Stack | Remote | [Apply](https://www.rxvantage.com/company/careers/jobs?gh_jid=5632107004&utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Stord-stord External Career | Senior Software Engineer, AI | Remote | [Apply](https://stord.wd1.myworkdayjobs.com/stord_external_career/job/Remote---All-US/Senior-Software-Engineer--AI_JR100747?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
@@ -216,8 +216,8 @@
 | Xtscareers | AWS DevOps Solutions Engineer (Remote) | Denver, Colorado | [Apply](http://xtscareers.applytojob.com/apply/uCUiQalxtc/AWS-DevOps-Solutions-Engineer-Remote?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Abbvie | Senior Software Engineer - AA | Irvine, California | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990009227526?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | American College Of Education | CRM Developer & Administrator | Remote | [Apply](https://apply.workable.com/j/4BED89D900?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
-| Aretum | Senior .NET Developer | Remote | [Apply](https://apply.workable.com/j/8EF1972331?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Githubinc | Senior Software Engineer, Data | Remote | [Apply](https://www.github.careers/jobs/4369/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
+| Aretum | Senior .NET Developer | Remote | [Apply](https://apply.workable.com/j/8EF1972331?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Vertexinc-vertexinc | Software Developer II | Charlestown Township, Pennsylvania | [Apply](https://vertexinc.wd1.myworkdayjobs.com/vertexinc/job/Remote---PA/Software-Developer-II_JR102155?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Wikimedia | Staff Software Engineer, Infrastructure | Remote | [Apply](https://job-boards.greenhouse.io/wikimedia/jobs/7194269?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Sparksoftcorporation | Junior Front End Developer (Angular) | Columbia, Maryland | [Apply](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/4836474007?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
@@ -228,8 +228,8 @@
 | 25037 5014 | Data Engineer - Early Career | Fort Worth, Texas | [Apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5014&PageType=JobDetails&jobid=794244&utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Knowledgeservices | Workday Extend Programmer (Remote) | Augusta, Maine | [Apply](https://careers-knowledgeservices.icims.com/jobs/29820/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Knowledgeservices | .Net Developer (remote) | Augusta, Maine | [Apply](https://careers-knowledgeservices.icims.com/jobs/29818/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
-| Com Donnelleyf | Software Engineer - Remote (US) | Remote | [Apply](https://jobs.dfinsolutions.com/job/Software-Engineer-Remote/1304335900/?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Platacard | Software Engineer - Web Senior | Remote | [Apply](https://career.platacard.mx/vacancy/details?id=4896564008&gh_jid=4896564008&utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
+| Com Donnelleyf | Software Engineer - Remote (US) | Remote | [Apply](https://jobs.dfinsolutions.com/job/Software-Engineer-Remote/1304335900/?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Digitalocean98 | Senior Web Development Software Engineer II | San Francisco, California | [Apply](https://www.digitalocean.com/careers/position/apply/?gh_jid=7191095&utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Digitalocean98 | Senior Web Development Software Engineer II | Seattle, Washington | [Apply](https://www.digitalocean.com/careers/position/apply/?gh_jid=7191099&utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Digitalocean98 | Senior Web Development Software Engineer II | Denver, Colorado | [Apply](https://www.digitalocean.com/careers/position/apply/?gh_jid=7191098&utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
@@ -239,9 +239,9 @@
 | Tas-uhg | Senior AI/ML Engineer | Schaumburg, Illinois | [Apply](https://tas-uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2288954&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Tas-uhg | Senior Software Engineer - .Net & SQL | Remote | [Apply](https://tas-uhg.taleo.net/careersection/10780/jobdetail.ftl?job=2296429&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Phe.tbe Phe02 Technatomy 44 | Salesforce Developer | Remote | [Apply](https://phe.tbe.taleo.net/phe02/ats/careers/requisition.jsp?org=TECHNATOMY&cws=44&rid=2494&utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
-| Definityfirst | Dynamics 365 and Power Platform Developer | Remote | [Apply](http://definityfirst.applytojob.com/apply/avFqK1krzl/Dynamics-365-And-Power-Platform-Developer?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Virtusa | Automation Tester | Remote | [Apply](https://virtusa.taleo.net/careersection/mb_101/jobdetail.ftl?job=CREQ229976&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Virtusa | Angular Developer | Remote | [Apply](https://virtusa.taleo.net/careersection/mb_101/jobdetail.ftl?job=CREQ229964&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
+| Definityfirst | Dynamics 365 and Power Platform Developer | Remote | [Apply](http://definityfirst.applytojob.com/apply/avFqK1krzl/Dynamics-365-And-Power-Platform-Developer?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Horizon3ai | Software Developer Engineer in Test | Remote | [Apply](https://jobs.ashbyhq.com/horizon3ai/562f0bb6-fb44-4c48-bdc1-53a3ae6046e3?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Northstrat | Full Stack Software Developer (Remote) | Arlington, Virginia | [Apply](https://apply.workable.com/j/3AE6E22D85?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
 | Northstrat | Front-End Software Developer | Prince George's County, Maryland | [Apply](https://apply.workable.com/j/F59729484D?utm_source=reddit&utm_medium=organic&utm_campaign=remotepython) |
